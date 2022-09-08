@@ -1,0 +1,16 @@
+FE001,TS001,CU002,Complaint,The trainer was rude!,1
+FE002,TS001,CU005,Feedback,The trainer is very niceee!!!!,5
+FE003,TS002,CU001,Complaint,Not fun at all and too expensive,2
+FE004,TS002,CU009,Suggestion,Prefer to have some rest in the middle of session,4
+FE005,TS003,CU008,Suggestion,Please refurbish those equipments!,3
+FE006,TS004,CU004,Complaint,The gym is very noisy!!!,5
+FE007,TS004,CU007,Feedback,The trainer is very muscular!,5
+FE008,TS005,CU001,Complaint,The trainer ignore me when I raise my hard,2
+FE009,TS006,CU002,Others,The session was amazing and fun!!,5
+FE010,TS007,CU008,Complaint,The session is too long!,2
+FE011,TS007,CU007,Complaint,The training was too intense!My hand nearly brake,3
+FE012,TS008,CU005,Feedback,The trainer is very helpful!,5
+FE013,TS009,CU010,Complaint,The room is very cold,3
+FE014,TS010,CU009,Others,I want to apply becoming a trainer!,5
+FE015,TS010,CU005,Complaint,The room too small!,2
+FE016,TS007,CU001,Feedback,Amazing Session,5

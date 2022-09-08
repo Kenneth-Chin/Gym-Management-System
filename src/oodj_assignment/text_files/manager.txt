@@ -1,0 +1,5 @@
+MA001,Kelwin Chew,12345678,0163099309,chewcalwing@gmail.com,M,2001-11-25,2020-10-30
+MA002,Kenneth Chin,12345678,014625485,chinkanuf@gmail.com,M,2002-03-27,2020-02-24
+MA003,Albert Roger,roger@bert,0194628574,roger574@gmail.com,M,1995-05-26,2020-04-11
+MA004,Angie Low,123angie#,0163857382,lowangie@gmail.com,F,1989-03-15,2020-05-12
+MA005,Romie Julie,julie@909,0137283444,romie909@gmail.com,F,1993-11-25,2020-07-11

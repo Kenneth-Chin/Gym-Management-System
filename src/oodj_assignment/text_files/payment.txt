@@ -1,0 +1,10 @@
+PA001,Basic Subscription Plan,Online Banking,300.00,CU001,MA001,2021-05-11T14:02,Paid
+PA002,Elite Subscription Plan,Credit/Debit Card,720.00,CU001,MA001,2022-06-25T15:33,Pending
+PA003,TS005-Killer Body Weight Workout,Credit/Debit Card,71.20,CU001,TR001,2022-05-02T18:23,Paid
+PA004,Standard Subscription Plan,Online Banking,480.00,CU002,MA001,2022-04-21T15:39,Cancelled
+PA005,TS002-Strong Intense Burn and Stretching,Credit/Debit Card,100.00,CU001,TR001,2022-05-25T15:48,Cancelled
+PA006,Elite Subscription Plan,Online Banking,300.00,CU005,MA001,2022-05-16T14:02,Paid
+PA007,Elite Subscription Plan,-,720.00,CU003,MA001,2022-05-26T13:32,Pending
+PA008,TS006-All Jacks Workout for Beginners,Online Banking,20.50,CU001,TR001,2022-06-25T00:00,Pending
+PA009,Standard Subscription Plan,-,480.00,CU008,MA001,2022-04-27T16:39,Pending
+PA010,TS010-Fat Burning and Strengthening Workout,Credit/Debit Card,137.00,CU005,TR001,2022-05-29T13:48,Cancelled

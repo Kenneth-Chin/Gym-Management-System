@@ -1,0 +1,10 @@
+TS001,Light Full Body Workout for Beginners,Beginner,TR001,CU003-CU002-CU005,2022-06-25,17:30,18:30,Not Started
+TS002,Strong Intense Burn and Stretching,Expert,TR001,CU001-CU005-CU009-CU010,2022-05-22,10:00,12:00,Cancelled
+TS003,Explosive Body Weight Workout for Expert,Expert,TR001,CU008-CU002,2022-05-15,13:00,14:00,Completed
+TS004,Lower Body Training,Intermediate,TR001,CU004-CU007,2022-06-20,14:00,15:30,Not Started
+TS005,Killer Body Weight Workout,Beginner,TR001,CU001-CU007-CU004,2022-06-30,13:00,15:00,Not Started
+TS006,All Jacks Workout for Beginners,Beginner,TR001,CU001-CU002,2022-06-24,17:30,18:30,Not Started
+TS007,Strong Intense Circuit Training,Expert,TR001,CU008-CU007-CU002-CU001,2022-05-30,10:00,12:00,Completed
+TS008,Explosive Body Weight Workout for Expert,Expert,TR001,CU005-CU002,2022-04-29,10:00,11:00,Completed
+TS009,Body Weight Tension Cardio and Strength Workout,Intermediate,TR001,CU003-CU010-CU002,2022-06-21,13:30,15:30,Not Started
+TS010,Fat Burning and Strengthening Workout,Beginner,TR001,CU005-CU009,2022-07-03,13:00,15:00,Not Started
